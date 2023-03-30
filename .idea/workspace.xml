@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b63758-d953-40fc-9535-dad253be32a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NHwT1w8oqy9WtYi06ajwafjJsV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1 - Copy\frontend\src\components\Header" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1\src\main\resources" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1\src\main\resources\templates" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1\src\main\java\mk\ukim\finki\emt\lab1\web\controller" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1\src\main\java\mk\ukim\finki\emt\lab1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1 - Copy\backend" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1 - Copy\frontend\src" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1 - Copy\frontend\src\components" />
+      <recent name="C:\Users\Teodora\Desktop\emt Teodora Stoilovska 201076 lab 1 - Copy\frontend\src\components\App" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mk.ukim.finki.emt.lab1.model.exceptions" />
+      <recent name="mk.ukim.finki.emt.lab1.service.impl" />
+      <recent name="mk.ukim.finki.emt.lab1.service" />
+      <recent name="mk.ukim.finki.emt.lab1.repository.jpa" />
+      <recent name="mk.ukim.finki.emt.lab1.model.enumerations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mk.ukim.finki.emt.lab1.Lab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b63758-d953-40fc-9535-dad253be32a8" name="Changes" comment="" />
+      <created>1679334322588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679334322588</updated>
+      <workItem from="1679334324062" duration="16249000" />
+      <workItem from="1679391451878" duration="3921000" />
+      <workItem from="1679679002007" duration="15759000" />
+      <workItem from="1679697849443" duration="11000" />
+      <workItem from="1679740038982" duration="670000" />
+      <workItem from="1679748721185" duration="372000" />
+      <workItem from="1679749762983" duration="220000" />
+      <workItem from="1679750062960" duration="1975000" />
+      <workItem from="1679752694203" duration="3183000" />
+      <workItem from="1679778506775" duration="1268000" />
+      <workItem from="1679818837228" duration="3545000" />
+      <workItem from="1679824450509" duration="496000" />
+      <workItem from="1679928232048" duration="676000" />
+      <workItem from="1679942301749" duration="6446000" />
+      <workItem from="1680004901134" duration="109000" />
+      <workItem from="1680107368226" duration="7018000" />
+      <workItem from="1680119571245" duration="78000" />
+      <workItem from="1680119768304" duration="2070000" />
+      <workItem from="1680158620714" duration="368000" />
+      <workItem from="1680159184205" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
