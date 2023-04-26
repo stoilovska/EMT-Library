@@ -39,10 +39,16 @@ public class BookRestController {
     }
 
 
+ //    @PostMapping("/add")
+//    public ResponseEntity<Book> save(@RequestParam String name, @RequestParam Long author,@RequestParam String category, @RequestParam Integer availableCopies) {
+//        return this.bookService.save(name, author,category, availableCopies)
+//                .map(manufacturer -> ResponseEntity.ok().body(manufacturer))
+//                .orElseGet(() -> ResponseEntity.badRequest().build());
+//    }
     @PostMapping("/add")
-    public ResponseEntity<Book> save(@RequestParam String name, @RequestParam Long author,@RequestParam String category, @RequestParam Integer availableCopies) {
-        return this.bookService.save(name, author,category, availableCopies)
-                .map(manufacturer -> ResponseEntity.ok().body(manufacturer))
+    public ResponseEntity<Book> save(@RequestBody BookDto bookDto) {
+        return this.bookService.save(bookDto)
+                .map(product -> ResponseEntity.ok().body(product))
                 .orElseGet(() -> ResponseEntity.badRequest().build());
     }
 
