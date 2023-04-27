@@ -21,7 +21,6 @@ public class BookRestController {
     }
 
     @GetMapping
-    //@PreAuthorize("hasRole('ROLE_ADMIN')")
     public List<Book> findAll() {
         return this.bookService.findAll();
     }
@@ -39,7 +38,7 @@ public class BookRestController {
     }
 
 
- //    @PostMapping("/add")
+    //    @PostMapping("/add")
 //    public ResponseEntity<Book> save(@RequestParam String name, @RequestParam Long author,@RequestParam String category, @RequestParam Integer availableCopies) {
 //        return this.bookService.save(name, author,category, availableCopies)
 //                .map(manufacturer -> ResponseEntity.ok().body(manufacturer))
